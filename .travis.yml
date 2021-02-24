@@ -4,7 +4,7 @@ python:
      - "3.8"
 
 script:
-    - python3 tests/test_compute_stats_refactor.py
+    - python3 test_compute_stats_refactor.py
 
 deploy:
   provider: pypi
