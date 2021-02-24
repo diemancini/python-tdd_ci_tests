@@ -12,5 +12,6 @@ deploy:
   password:
     secure: "pypi-BBfk7oNy65Clji7H3bD6Ow"
 
-on:
-    branch: master
+branches:
+  only:
+  - master
