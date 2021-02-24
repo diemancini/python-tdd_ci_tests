@@ -5,7 +5,7 @@ python:
      - "pypy3"
 
 script:
-    - unittest
+    - python3 tests/test_compute_stats_refactor.py
 
 deploy:
   provider: pypi
