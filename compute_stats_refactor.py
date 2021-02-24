@@ -79,7 +79,7 @@ class ComputeStatsRefactor:
 
 # if __name__ == '__main__':
 #     csr = ComputeStatsRefactor()
-#     # print(read_ints())
+#     print(f'data = read_ints()}')
 #     print(f'total = {csr.count()}')
 #     print(f'summation = {csr.summation()}')
 #     print(f'average = {csr.average()}')
